@@ -50,20 +50,4 @@
    <li>Open ConnectionProvider.java file and change the uname(username) and pass(password) variable according the user name and password of your MySql database</li>
    <li>Now it is ready to Run</li>
  </ol>
- <h2 id="ws">Working-Snippets</h2>
-<img id="login" src="snippets/Login.png">
-<img id="Admin" src="snippets/Admin.png">
-<img id="Patient" src="snippets/Patient.png">
-<img id="Doctor" src="snippets/Doctor.png">
-<img id="Report" src="snippets/Report.png">
-<img id ="Appointment" src="snippets/Appointment.png">
-<img id="feedback" src="snippets/Feedback.png">
-<img id="Booking" src="snippets/BookingAppointment.png">
-<img id="choose" src="snippets/choosingDoctor.png">
-<img id="Payment" src="snippets/paymentProcess.png">
-<h2 id="cs">Database-Snippets</h2>
-<img id="a" src="snippets/Database/Schema.png">
-<img id="b" src="snippets/Database/User-PatientTable.png">
-<img id="c" src="snippets/Database/Doctor-AppointmentTable.png">
-<img id="d" src="snippets/Database/ExampleDoctorInputs.png">
-<img id="e" src="snippets/Database/Report-FeebackTable.png">
+ 
